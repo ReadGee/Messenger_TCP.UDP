@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|d:\\projectc\\messengeroutfiles\\messenger\\nunit\\testcryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|solutionrelative:nunit\\testcryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|d:\\projectc\\messengeroutfiles\\messenger\\cryptography\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|solutionrelative:cryptography\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|d:\\projectc\\messengeroutfiles\\messenger\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|d:\\projectc\\messengeroutfiles\\messenger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|d:\\projectc\\messengeroutfiles\\messenger\\testingdev\\serverudp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|solutionrelative:testingdev\\serverudp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|d:\\projectc\\messengeroutfiles\\messenger\\testingdev\\clientudp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|solutionrelative:testingdev\\clientudp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|d:\\projectc\\messengeroutfiles\\messenger\\server\\serverdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|solutionrelative:server\\serverdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestCryptography.cs",
+              "DocumentMoniker": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\NUnit\\TestCryptography.cs",
+              "RelativeDocumentMoniker": "NUnit\\TestCryptography.cs",
+              "ToolTip": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\NUnit\\TestCryptography.cs",
+              "RelativeToolTip": "NUnit\\TestCryptography.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAiwFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:14:08.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cryptography.cs",
+              "DocumentMoniker": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\Cryptography\\Cryptography.cs",
+              "RelativeDocumentMoniker": "Cryptography\\Cryptography.cs",
+              "ToolTip": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\Cryptography\\Cryptography.cs",
+              "RelativeToolTip": "Cryptography\\Cryptography.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAIwFsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:28:34.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\Settings.cs",
+              "RelativeDocumentMoniker": "Settings.cs",
+              "ToolTip": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\Settings.cs",
+              "RelativeToolTip": "Settings.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:20:12.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServerUDP.cs",
+              "DocumentMoniker": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\TestingDev\\ServerUDP.cs",
+              "RelativeDocumentMoniker": "TestingDev\\ServerUDP.cs",
+              "ToolTip": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\TestingDev\\ServerUDP.cs",
+              "RelativeToolTip": "TestingDev\\ServerUDP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:15:21.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientUDP.cs",
+              "DocumentMoniker": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\TestingDev\\ClientUDP.cs",
+              "RelativeDocumentMoniker": "TestingDev\\ClientUDP.cs",
+              "ToolTip": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\TestingDev\\ClientUDP.cs",
+              "RelativeToolTip": "TestingDev\\ClientUDP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:11:39.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServerDataAccess.cs",
+              "DocumentMoniker": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\Server\\ServerDataAccess.cs",
+              "RelativeDocumentMoniker": "Server\\ServerDataAccess.cs",
+              "ToolTip": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\Server\\ServerDataAccess.cs",
+              "RelativeToolTip": "Server\\ServerDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:02:29.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:59:36.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
