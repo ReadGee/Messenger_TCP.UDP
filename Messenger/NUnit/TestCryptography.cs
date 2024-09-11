@@ -6,6 +6,7 @@
     using System;
     using NUnit.Framework.Legacy;
 
+
     [TestFixture]
     public class Test_Cryptography
     {
@@ -72,8 +73,6 @@
     [TestFixture]
     public class TestRandom_Cryptography
     {
-        const int MAX_COUNT_LOOP_EXECUTIONS = 50000;
-
         [TestCase('z', 'А')]
         [TestCase('А', 'z')]
         [TestCase('A', 'Z')]
@@ -82,11 +81,14 @@
         [TestCase(' ', '@')]
         public void Test_EncryptDecrypt(char elem1, char elem2)
         {
+            const int MAX_COUNT_LOOP_EXECUTIONS = 50000;
+
             int count = 0;
             if(elem1 > elem2)
             {
                 (elem1, elem2) = (elem2, elem1);
             }
+
             for(char letter = elem1; letter <= elem2; letter++)
             {
                 ClassicAssert.AreEqual(letter.ToString(), Cryptography.DefaultDecrypt(Cryptography.DefaultEncrypt(letter.ToString())));

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|d:\\projectc\\messengeroutfiles\\messenger\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|d:\\projectc\\messengeroutfiles\\messenger\\nunit\\testcryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|solutionrelative:nunit\\testcryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|d:\\projectc\\messengeroutfiles\\messenger\\cryptography\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|solutionrelative:cryptography\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|d:\\projectc\\messengeroutfiles\\messenger\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CB403DD-D42A-4BC6-A027-9E6FCBBA9801}|Messenger.csproj|d:\\projectc\\messengeroutfiles\\messenger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TestCryptography.cs",
               "DocumentMoniker": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\NUnit\\TestCryptography.cs",
               "RelativeDocumentMoniker": "NUnit\\TestCryptography.cs",
               "ToolTip": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\NUnit\\TestCryptography.cs",
               "RelativeToolTip": "NUnit\\TestCryptography.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAiwFMAAAAJAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAArwGQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T16:14:08.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Cryptography.cs",
               "DocumentMoniker": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\Cryptography\\Cryptography.cs",
               "RelativeDocumentMoniker": "Cryptography\\Cryptography.cs",
@@ -67,19 +67,21 @@
               "RelativeToolTip": "Cryptography\\Cryptography.cs",
               "ViewState": "AQIAAE0AAAAAAAAAAAAIwFsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T14:28:34.873Z"
+              "WhenOpened": "2024-09-09T14:28:34.873Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Settings.cs",
               "DocumentMoniker": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\Settings.cs",
               "RelativeDocumentMoniker": "Settings.cs",
               "ToolTip": "D:\\ProjectC\\MessengerOutFiles\\Messenger\\Settings.cs",
               "RelativeToolTip": "Settings.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAuwDUAAAAJAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAADwvz8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T23:20:12.176Z"
+              "WhenOpened": "2024-09-07T23:20:12.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

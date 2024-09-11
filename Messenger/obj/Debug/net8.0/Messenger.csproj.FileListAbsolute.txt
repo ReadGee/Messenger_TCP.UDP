@@ -131,3 +131,4 @@ D:\ProjectC\MessengerOutFiles\Messenger\bin\Debug\net8.0\nunit.engine.dll
 D:\ProjectC\MessengerOutFiles\Messenger\bin\Debug\net8.0\nunit.engine.api.dll
 D:\ProjectC\MessengerOutFiles\Messenger\bin\Debug\net8.0\nunit.engine.core.dll
 D:\ProjectC\MessengerOutFiles\Messenger\bin\Debug\net8.0\testcentric.engine.metadata.dll
+D:\ProjectC\MessengerOutFiles\Messenger\obj\Debug\net8.0\Messenger.sourcelink.json
